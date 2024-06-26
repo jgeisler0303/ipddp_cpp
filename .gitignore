@@ -1,3 +1,9 @@
+# Project 
+ipddp_problem_*.hpp
+
+# Hidden files
+.*
+
 # Prerequisites
 *.d
 
@@ -30,3 +36,8 @@
 *.exe
 *.out
 *.app
+
+# MATLAB
+*.asv
+*.mex*
+
